@@ -87,7 +87,7 @@ data =
       properties: {
         title: 'Zen.Ly',
         pics:'zenly.png',
-        description: 'A map that lets you see your friends and what they're up to',
+        description: 'A map that lets you see your friends and what they&#39re up to',
         employees: '100',
         founded: '2011',
         about: 'https://zen.ly/jobs'
