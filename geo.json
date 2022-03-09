@@ -1,0 +1,232 @@
+data =
+{
+  type: 'FeatureCollection',
+  features: [{
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [13.37237030793312, 52.544436910731676]
+      },
+      properties: {
+        title: 'Ecosia',
+        pics: 'Ecosia.jpeg',
+        description: "Planting and protecting forests by enabling people to channel their everyday actions into environmental good",
+        employees: 112,
+        founded: 2009,
+        about: "https://explore.ecosia.org/jobs"
+
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [4.906169584632056, 52.36512149570275]
+      },
+      properties: {
+        title: 'Overstory',
+        pics: 'overstory.jpeg',
+        description: 'Help solve our climate crisis by providing real-time intelligence about the planet&#39s vegetation',
+        employees: '24',
+        founded: '2018',
+        about: 'https://www.overstory.com/careers'
+
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [7.4441136286056055,46.94541677159826]
+      },
+      properties: {
+        title: 'Pabio',
+        pics: 'pabio.webp',
+        description: 'Democratizing beautiful living. So that everyone can live in a home they love.',
+        employees: '30',
+        founded: '2020',
+        about: 'https://pabio.notion.site/Work-at-Pabio-4acb956bee39436eb027bea37cdaf900'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [4.469675542850207, 51.92434288324026]
+      },
+      properties: {
+        title: 'Relive',
+        pics:'relive.jpeg',
+        description: 'Get everyone exploring the outdoors and living a healthy and active life.',
+        employees: '48',
+        founded: '2016',
+        about: 'https://jobs.relive.cc/'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [24.754715247333383, 59.474408293901256]
+      },
+      properties: {
+        title: 'Toggl',
+        pics:'Toggl.png',
+        description: 'The incredibly simple timetracking app',
+        employees: '100',
+        founded: '2014',
+        about: 'https://toggl.com/jobs/'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [2.36912342711046, 48.853237269820156]
+      },
+      properties: {
+        title: 'Zen.Ly',
+        pics:'zenly.png',
+        description: 'A map that lets you see your friends and what they're up to',
+        employees: '100',
+        founded: '2011',
+        about: 'https://zen.ly/jobs'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [ -0.10798667307171748, 51.50770884565916]
+      },
+      properties: {
+        title: 'Citymapper',
+        pics:'Citymapper.png',
+        description: 'Making Cities usable',
+        employees: '100',
+        founded: '2011',
+        about: 'https://citymapper.com/jobs'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [13.401115613396852, 52.52759870568769]
+      },
+      properties: {
+        title: 'Pitch',
+        pics:'Pitch.jpeg',
+        description: 'We’re on a mission to enable every team’s best thinking.',
+        employees: '150',
+        founded: '2018',
+        about: 'https://pitch.com/jobs'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [ 6.493936988434836, 46.51125573916347]
+      },
+      properties: {
+        title: 'Wegaw',
+        pics:'Wegaw.png',
+        description: 'Through the power of satellite data, we help companies around the world to transition to clean energy',
+        employees: '9',
+        founded: '2016',
+        about: 'https://www.wegaw.com/#section-5'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [4.885363796279416, 52.37331773220907]
+      },
+      properties: {
+        title: 'Amberscript',
+        pics:'Amberscript.jpeg',
+        description: 'Transform your audio and video to text and subtitles',
+        employees: '90',
+        founded: '2017',
+        about: 'https://www.amberscript.com/en/careers/'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [12.603383663316746, 55.677838417123276]
+      },
+      properties: {
+        title: 'Airtame',
+        pics:'Airtame.webp',
+        description: 'Wireless presentations from any device',
+        employees: '103',
+        founded: '2013',
+        about: 'https://airtame.com/careers/'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [,]
+      },
+      properties: {
+        title: '',
+        pics:'',
+        description: '',
+        employees: '',
+        founded: '',
+        about: ''
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [,]
+      },
+      properties: {
+        title: '',
+        pics:'',
+        description: '',
+        employees: '',
+        founded: '',
+        about: ''
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [,]
+      },
+      properties: {
+        title: '',
+        pics:'',
+        description: '',
+        employees: '',
+        founded: '',
+        about: ''
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [,]
+      },
+      properties: {
+        title: '',
+        pics:'',
+        description: '',
+        employees: '',
+        founded: '',
+        about: ''
+      }
+    }
+  ]
+};
