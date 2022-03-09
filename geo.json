@@ -172,60 +172,60 @@ data =
       type: 'Feature',
       geometry: {
         type: 'Point',
-        coordinates: [,]
+        coordinates: [2.1748539265683577, 41.389908260825244 ]
       },
       properties: {
-        title: '',
-        pics:'',
-        description: '',
-        employees: '',
-        founded: '',
-        about: ''
+        title: 'Bixoto',
+        pics:'Bixoto.jpeg',
+        description: 'Make ecommerce more local and sustainable',
+        employees: '5',
+        founded: '2020',
+        about: 'https://bixoto.com/es/trabaja-con-nosotros/'
       }
     },
     {
       type: 'Feature',
       geometry: {
         type: 'Point',
-        coordinates: [,]
+        coordinates: [-0.12838488651165486, 51.51574106860525]
       },
       properties: {
-        title: '',
-        pics:'',
-        description: '',
-        employees: '',
-        founded: '',
-        about: ''
+        title: 'Lune',
+        pics:'Lune.webp',
+        description: 'Lune is on a mission to make every product and service climate positive by default.',
+        employees: '11',
+        founded: '2021',
+        about: 'https://lune.co/about'
       }
     },
     {
       type: 'Feature',
       geometry: {
         type: 'Point',
-        coordinates: [,]
+        coordinates: [-9.139949458292788, 38.72807300294636]
       },
       properties: {
-        title: '',
-        pics:'',
-        description: '',
-        employees: '',
-        founded: '',
-        about: ''
+        title: 'Hala Systems',
+        pics:'Hala.png',
+        description: 'Hala is a social enterprise working to transform the nature of protection and accountability in the world&#39s toughest places',
+        employees: '48',
+        founded: '2015',
+        about: 'https://faq.halasystems.com/company/#what-kind-of-organization-is-hala-systems'
       }
     },
     {
       type: 'Feature',
       geometry: {
         type: 'Point',
-        coordinates: [,]
+        coordinates: [18.068653127194665, 59.336327602257626]
       },
       properties: {
         title: '',
-        pics:'',
-        description: '',
-        employees: '',
-        founded: '',
-        about: ''
+        pics:'Flightradar.png',
+        description: 'Flightradar24 is a global flight tracking service that provides you with real-time information about thousands of aircraft',
+        employees: '46',
+        founded: '2006',
+        about: 'https://careers.flightradar24.com/'
       }
     }
   ]
