@@ -191,26 +191,11 @@ data =
       },
       properties: {
         title: 'Lune',
-        pics:'Lune.webp',
+        pics:'Lune.png',
         description: 'Lune is on a mission to make every product and service climate positive by default.',
         employees: '11',
         founded: '2021',
         about: 'https://lune.co/about'
-      }
-    },
-    {
-      type: 'Feature',
-      geometry: {
-        type: 'Point',
-        coordinates: [-9.139949458292788, 38.72807300294636]
-      },
-      properties: {
-        title: 'Hala Systems',
-        pics:'Hala.png',
-        description: 'Hala is a social enterprise working to transform the nature of protection and accountability in the world&#39s toughest places',
-        employees: '48',
-        founded: '2015',
-        about: 'https://faq.halasystems.com/company/#what-kind-of-organization-is-hala-systems'
       }
     },
     {
