@@ -9,7 +9,7 @@ data =
       },
       properties: {
         title: 'Ecosia',
-        pics: 'Ecosia.jpeg',
+        pics: 'images/Ecosia.jpeg',
         description: "Planting and protecting forests by enabling people to channel their everyday actions into environmental good",
         employees: 112,
         founded: 2009,
@@ -25,7 +25,7 @@ data =
       },
       properties: {
         title: 'Overstory',
-        pics: 'overstory.jpeg',
+        pics: 'images/overstory.jpeg',
         description: 'Help solve our climate crisis by providing real-time intelligence about the planet&#39s vegetation',
         employees: '24',
         founded: '2018',
@@ -41,7 +41,7 @@ data =
       },
       properties: {
         title: 'Pabio',
-        pics: 'pabio.webp',
+        pics: 'images/pabio.webp',
         description: 'Democratizing beautiful living. So that everyone can live in a home they love.',
         employees: '30',
         founded: '2020',
@@ -56,7 +56,7 @@ data =
       },
       properties: {
         title: 'Relive',
-        pics:'relive.jpeg',
+        pics:'images/relive.jpeg',
         description: 'Get everyone exploring the outdoors and living a healthy and active life.',
         employees: '48',
         founded: '2016',
@@ -71,7 +71,7 @@ data =
       },
       properties: {
         title: 'Toggl',
-        pics:'Toggl.png',
+        pics:'images/Toggl.png',
         description: 'The incredibly simple timetracking app',
         employees: '100',
         founded: '2014',
@@ -86,7 +86,7 @@ data =
       },
       properties: {
         title: 'Zen.Ly',
-        pics:'zenly.png',
+        pics:'images/zenly.png',
         description: 'A map that lets you see your friends and what they&#39re up to',
         employees: '100',
         founded: '2011',
@@ -101,7 +101,7 @@ data =
       },
       properties: {
         title: 'Citymapper',
-        pics:'Citymapper.png',
+        pics:'images/Citymapper.png',
         description: 'Making Cities usable',
         employees: '100',
         founded: '2011',
@@ -116,7 +116,7 @@ data =
       },
       properties: {
         title: 'Pitch',
-        pics:'Pitch.jpeg',
+        pics:'images/Pitch.jpeg',
         description: 'We’re on a mission to enable every team’s best thinking.',
         employees: '150',
         founded: '2018',
@@ -131,7 +131,7 @@ data =
       },
       properties: {
         title: 'Wegaw',
-        pics:'Wegaw.png',
+        pics:'images/Wegaw.png',
         description: 'Through the power of satellite data, we help companies around the world to transition to clean energy',
         employees: '9',
         founded: '2016',
@@ -146,7 +146,7 @@ data =
       },
       properties: {
         title: 'Amberscript',
-        pics:'Amberscript.jpeg',
+        pics:'images/Amberscript.jpeg',
         description: 'Transform your audio and video to text and subtitles',
         employees: '90',
         founded: '2017',
@@ -161,7 +161,7 @@ data =
       },
       properties: {
         title: 'Airtame',
-        pics:'Airtame.webp',
+        pics:'images/Airtame.webp',
         description: 'Wireless presentations from any device',
         employees: '103',
         founded: '2013',
@@ -176,7 +176,7 @@ data =
       },
       properties: {
         title: 'Bixoto',
-        pics:'Bixoto.jpeg',
+        pics:'images/Bixoto.jpeg',
         description: 'Make ecommerce more local and sustainable',
         employees: '5',
         founded: '2020',
@@ -191,7 +191,7 @@ data =
       },
       properties: {
         title: 'Lune',
-        pics:'Lune.png',
+        pics:'images/Lune.png',
         description: 'Lune is on a mission to make every product and service climate positive by default.',
         employees: '11',
         founded: '2021',
@@ -205,12 +205,102 @@ data =
         coordinates: [18.068653127194665, 59.336327602257626]
       },
       properties: {
-        title: '',
-        pics:'Flightradar.png',
+        title: 'Flightradar',
+        pics:'images/Flightradar.png',
         description: 'Flightradar24 is a global flight tracking service that provides you with real-time information about thousands of aircraft',
         employees: '46',
         founded: '2006',
         about: 'https://careers.flightradar24.com/'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [2.1428590977328366, 41.382908978249]
+      },
+      properties: {
+        title: 'Marfeel',
+        pics:'images/marfeel.jpeg',
+        description: 'Marfeel is an ad tech platform that revolutionizes the way publishers create, optimize and monetize mobile websites',
+        employees: '75',
+        founded: '2011',
+        about: 'https://touch.marfeel.com/careers/'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [14.438665762605028, 50.07600309267693]
+      },
+      properties: {
+        title: 'Deepnote',
+        pics:'images/deepnote.jpeg',
+        description: 'Deepnote is a new kind of data science notebook. Jupyter-compatible with real-time collaboration and running in the cloud.',
+        employees: '35',
+        founded: '2019',
+        about: 'https://deepnote.com/join-us'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [-0.12769824105285185, 51.51360452240061]
+      },
+      properties: {
+        title: 'Slip',
+        pics:'images/slip.jpeg',
+        description: 'Our mission is to create an omnichannel and frictionless experience for Retailers and their customers.',
+        employees: '12',
+        founded: '2018',
+        about: 'https://www.tryslip.com/about'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [18.06162021375089, 59.342347271708164]
+      },
+      properties: {
+        title: 'Dreams',
+        pics:'images/dreams.webp',
+        description: 'The days when financial institutions could benefit from ignoring customers&#39 needs are over. Period.',
+        employees: '80',
+        founded: '2014',
+        about: 'https://www.getdreams.work/'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: [5.4733476980905795, 51.444349836788774]
+      },
+      properties: {
+        title: 'TalkJS',
+        pics:'images/talkjs.png',
+        description: 'We aim to provide you with the best-in-class chat API and SDKs so you won&#39t have to worry about chat yourself.',
+        employees: '10',
+        founded: '2016',
+        about: 'https://talkjs.com/jobs/'
+      }
+    },
+    {
+      type: 'Feature',
+      geometry: {
+        type: 'Point',
+        coordinates: []
+      },
+      properties: {
+        title: '',
+        pics:'images/',
+        description: '',
+        employees: '',
+        founded: '',
+        about: ''
       }
     }
   ]
